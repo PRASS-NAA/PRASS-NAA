@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Prasanna Narayanan
+- 👋 Hi, I’m Prasanna
 - 👀 I’m interested in Networking, Full Stack Development 
-- 📫 How to reach me ... 
+- 📫 You can reach me at Prasanna Narayanan in LinkedIn
+-    
